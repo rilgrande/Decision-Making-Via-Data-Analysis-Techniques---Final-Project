@@ -1,5 +1,6 @@
 # Decision-Making-Via-Data-Analysis-Techniques---Final-Project
 
+See poster pdf file for more analysis
 
 Plot 1: Vertical Bar Chart showing total sacks plus hits data for the four quarterbacks over 16 games segments of the sampled 48 games
 See lines 21-111. This section uses the following data sets: Big Ben.csv, Brady.csv, Rodgers.csv, Wilson.csv
